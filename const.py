@@ -1,4 +1,4 @@
-__version__ = '1.5.1'
+__version__ = '1.7.1'
 __author__ = 'lordralinc'
 
 DEFAULT_DATABASE = {
@@ -16,7 +16,7 @@ DEFAULT_DATABASE = {
   ],
   "self_prefixes": [
     "!л",
-    ".л"
+    ".л", "Ф" 
   ],
   "duty_prefixes": [
     "!лд",
